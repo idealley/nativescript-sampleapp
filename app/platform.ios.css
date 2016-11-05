@@ -1,7 +1,17 @@
+<<<<<<< HEAD
 Page {
   margin-top: -20;
 }
 TextField {
   border-width: 1;
   border-color: black;
+=======
+TextField {
+  border-width: 1;
+  border-color: black;
+}
+
+Page {
+  margin-top: -20;
+>>>>>>> angular-start
 }

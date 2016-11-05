@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 npm-debug.log
 .DS_Store
 
+=======
+>>>>>>> angular-start
 app/**/*.js
 hooks/
 lib/

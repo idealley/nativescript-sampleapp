@@ -1,7 +1,14 @@
 // Place your settings in this file to overwrite default and user settings.
 {
+<<<<<<< HEAD
     "files.exclude": {
         "**/*.js": { "when": "$(basename).ts" },
         "**/*.map": { "when": "$(basename).map" }
     }
+=======
+  "files.exclude": {
+    "**/*.js": { "when": "$(basename).ts" },
+    "**/*.map": { "when": "$(basename).map" }
+  }
+>>>>>>> angular-start
 }

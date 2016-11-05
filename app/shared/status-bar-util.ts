@@ -15,7 +15,10 @@ export function setStatusBarColors() {
   if (application.ios) {
     const AppDelegate = UIResponder.extend({
       applicationDidFinishLaunchingWithOptions: function() {
+<<<<<<< HEAD:app/shared/status-bar-util.ts
         // Allow for XCode 8 API changes
+=======
+>>>>>>> angular-start:app/utils/status-bar-util.ts
         utils.ios.getter(UIApplication, UIApplication.sharedApplication).statusBarStyle = UIStatusBarStyle.LightContent;
         return true;
       }

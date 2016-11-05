@@ -1,6 +1,7 @@
 @import url("~/platform.css");
 
 Page {
+<<<<<<< HEAD
   font-size: 15;
 }
 .list-page {
@@ -13,10 +14,30 @@ ActionBar {
   background-color: black;
   color: white;
 }
+=======
+  background-color: white;
+  font-size: 15;
+}
+>>>>>>> angular-start
 TextField {
   padding: 10;
   font-size: 13;
 }
+<<<<<<< HEAD
 .line-through {
   text-decoration: line-through;
 }
+=======
+
+.small-spacing {
+  margin: 5;
+}
+.medium-spacing {
+  margin: 10;
+}
+
+ActionBar {
+  background-color: black;
+  color: white;
+}
+>>>>>>> angular-start
